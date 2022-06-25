@@ -1,0 +1,21 @@
+.offcanvas {
+    width: 233px !important;
+    visibility: visible !important;
+    top: 0 !important;
+}
+
+.nav-link,
+.offcanvas-header {
+    color: white !important;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    font-weight: bold;
+    color: orange !important;
+}
+
+.active {
+    font-weight: bold !important;
+    color: yellow !important;
+}
